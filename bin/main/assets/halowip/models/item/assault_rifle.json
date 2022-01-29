@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "halowip:items/assault_rifle",
-		"layer1": "halowip:items/assault_rifle"
-	}
-}

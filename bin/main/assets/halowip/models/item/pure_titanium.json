@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "halowip:items/pure_titanium",
-		"layer1": "halowip:items/pure_titanium"
-	}
-}
