@@ -1,0 +1,19 @@
+{
+	
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"P P",
+		"P P"
+	],
+	"key": {
+		"P": {
+			"item": "halowip:pure_titanium"
+		}
+	},
+	"result": {
+		"item": "halowip:mk6_legs",
+		"count": 1
+	}
+
+}

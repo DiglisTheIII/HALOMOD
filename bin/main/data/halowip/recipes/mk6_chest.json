@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"P P",
+		"PDP",
+		"PPP"
+	],
+	"key": {
+		"P": {
+			"item": "halowip:pure_titanium"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "halowip:mk6_chest",
+		"count": 1
+	}
+}

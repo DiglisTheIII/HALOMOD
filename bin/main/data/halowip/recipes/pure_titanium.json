@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"TTT",
+		"TNI",
+		"III"
+	],
+	"key": {
+		"T": {
+			"item": "halowip:raw_titanium"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"N": {
+			"item": "minecraft:netherite_ingot"		
+		}
+	},
+	"result": {
+		"item": "halowip:pure_titanium",
+		"count": 3
+	}
+}

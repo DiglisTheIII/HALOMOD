@@ -1,0 +1,17 @@
+{
+	"item.halowip.assault_rifle": "Assault Rifle",
+	"block.halowip.titanium_ore": "Titanium Ore",
+	"item.halowip.mk6_helm": "MK6 MJOLNIR HELMET",
+	"item.halowip.mk6_chest": "MK6 MJOLNIR CHESTPLATE",
+	"item.halowip.mk6_legs": "MK6 MJOLNIR LEGGINGS",
+	"item.halowip.mk6_boots": "MK6 MJOLNIR BOOTS",
+	"item.halowip.ammo_pouch": "7.62 AMMO POUCH, 600 ROUNDS",
+	"item.halowip.raw_titanium": "Raw Titanium",
+	"item.halowip.pure_titanium": "Pure Titanium",
+	"item.halowip.titanium_pickaxe": "Titanium Pickaxe",
+	"item.halowip.titanium_sword": "Energy Sword",
+	"item.halowip.mk6_clear": "MK6 HELMET (NO VISOR)",
+	"item.halowip.mk6_blue": "MK6 HELMET (BLUE VISOR)",
+	
+	"itemGroup.halowip": "Halo: Crafting Evolved"
+}

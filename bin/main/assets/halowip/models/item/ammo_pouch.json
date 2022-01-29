@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "halowip:items/ammo_pouch",
+		"layer1": "halowip:items/ammo_pouch"
+	}
+}

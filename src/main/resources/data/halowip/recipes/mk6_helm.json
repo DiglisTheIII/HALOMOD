@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MO"
+	],
+	"key": {
+		"M": {
+			"item": "halowip:mk6_clear"
+		},
+		"O": {
+			"item": "minecraft:orange_stained_glass"
+		}
+	},
+	"result": {
+		"item": "halowip:mk6_helm",
+		"count": 1
+	}
+}
